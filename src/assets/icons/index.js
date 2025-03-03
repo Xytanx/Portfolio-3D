@@ -33,7 +33,7 @@ import mysql from './mysql.png'
 import spotify from './Spotify.svg'
 import portfolio from './portfolio.png'
 import CaseClosed from './Caseclosed.png'
-import Wanderlust from './WanderLust.svg'
+import Wanderlust from './Wanderlust.svg'
 import Captiv8 from './Captiv8.png'
 import arrow2 from './arrow2.png'
 
